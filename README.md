@@ -1,6 +1,6 @@
 ## Bienvenido!!!
 
-You can use the [editor on GitHub](https://github.com/Damianca/sistemas_operativos_2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Puede usar [editor on GitHub](https://github.com/Damianca/sistemas_operativos_2019/edit/master/README.md) para un sitio web con archivos Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
